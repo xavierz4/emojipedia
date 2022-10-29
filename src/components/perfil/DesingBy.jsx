@@ -7,10 +7,10 @@ export const DesingBy = () => {
       <h3>
         Github:
         <a
-          href="https://github.com/xavierz4/contactsAppInReact"
+          href="https://github.com/xavierz4/emojipedia"
           target="_blank"
         >
-          ContactsApp in Github.
+          emojipediaApp in Github.
         </a>
       </h3>
     </div>
